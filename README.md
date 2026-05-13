@@ -1,81 +1,123 @@
-# Codveda Technologies - Data Analysis Internship Project
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11577A?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+# Codveda Technologies - Data Analysis Internship
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square" alt="Python" />
+
+**End-to-End Data Analytics Portfolio Project**  
+Completed during my Data Analysis Internship at **Codveda Technologies**
 
 </div>
 
-**End-to-End Data Analytics Portfolio Project** completed during my Data Analysis Internship at **Codveda Technologies**.
+<br>
+
+<div align="center">
+
+###  Technologies & Tools
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
+
+  <!-- Python -->
+  <div style="transition: all 0.3s ease;">
+    <img src="https://cdn.simpleicons.org/python/3776AB" height="70" alt="Python" title="Python"/>
+    <p style="margin: 8px 0 0 0; font-size: 14px;"><strong>Python</strong></p>
+  </div>
+
+  <!-- Pandas -->
+  <div style="transition: all 0.3s ease;">
+    <img src="https://cdn.simpleicons.org/pandas/150458" height="70" alt="Pandas" title="Pandas"/>
+    <p style="margin: 8px 0 0 0; font-size: 14px;"><strong>Pandas</strong></p>
+  </div>
+
+  <!-- NumPy -->
+  <div style="transition: all 0.3s ease;">
+    <img src="https://cdn.simpleicons.org/numpy/013243" height="70" alt="NumPy" title="NumPy"/>
+    <p style="margin: 8px 0 0 0; font-size: 14px;"><strong>NumPy</strong></p>
+  </div>
+
+  <!-- scikit-learn -->
+  <div style="transition: all 0.3s ease;">
+    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="70" alt="scikit-learn" title="scikit-learn"/>
+    <p style="margin: 8px 0 0 0; font-size: 14px;"><strong>scikit-learn</strong></p>
+  </div>
+
+  <!-- Matplotlib -->
+  <div style="transition: all 0.3s ease;">
+    <img src="https://img.shields.io/badge/Matplotlib-11577A?style=flat&logo=matplotlib&logoColor=white" height="70" alt="Matplotlib" title="Matplotlib"/>
+    <p style="margin: 8px 0 0 0; font-size: 14px;"><strong>Matplotlib</strong></p>
+  </div>
+
+  <!-- Seaborn -->
+  <div style="transition: all 0.3s ease;">
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" height="70" alt="Seaborn" title="Seaborn"/>
+    <p style="margin: 8px 0 0 0; font-size: 14px;"><strong>Seaborn</strong></p>
+  </div>
+
+  <!-- Jupyter -->
+  <div style="transition: all 0.3s ease;">
+    <img src="https://cdn.simpleicons.org/jupyter/F37626" height="70" alt="Jupyter" title="Jupyter"/>
+    <p style="margin: 8px 0 0 0; font-size: 14px;"><strong>Jupyter</strong></p>
+  </div>
+
+</div>
+
+</div>
 
 ---
 
-## Project Overview
+##  Project Overview
 
-This repository showcases a complete **Data Analytics journey** following the structured internship task list. It covers everything from foundational data cleaning to advanced machine learning and visualization techniques.
+This repository documents my complete **Data Analysis Internship** at Codveda Technologies. It showcases a structured journey through the full data science lifecycle — from raw data ingestion to advanced modeling and insightful storytelling.
 
-The project demonstrates practical application of data science skills across **Basic, Intermediate, and Advanced** levels.
-
----
-
-## Internship Tasks Completed
-
-### **Level 1: Basic**
-- **Task 1**: Data Cleaning and Preprocessing (handling missing values, duplicates, inconsistent formats)
-- **Task 2**: Exploratory Data Analysis (EDA) – summary statistics, patterns & insights
-- **Task 3**: Basic Data Visualization (histograms, boxplots, scatter plots, etc.)
-
-### **Level 2: Intermediate**
-- **Task 1**: Regression Analysis (Linear Regression with model evaluation)
-- **Task 2**: Time Series Analysis (trend, seasonality, forecasting)
-- **Task 3**: Clustering Analysis (K-Means clustering with elbow method)
-
-### **Level 3: Advanced**
-- **Task 1**: Predictive Modeling – Classification (Churn prediction, etc.)
-- **Task 2**: Building Interactive Dashboards (Power BI / Tableau)
-- **Task 3**: Natural Language Processing (Sentiment Analysis)
+The project is organized across **three progressive levels**: Basic, Intermediate, and Advanced, demonstrating both foundational skills and advanced analytical capabilities.
 
 ---
 
-## Tools & Technologies
+##  Internship Tasks Completed
 
-- **Core**: Python, Jupyter Notebook
-- **Data Handling**: Pandas, NumPy
+### **Level 1: Foundations**
+- **Data Cleaning & Preprocessing** — Handled missing values, duplicates, and inconsistent data formats
+- **Exploratory Data Analysis (EDA)** — Uncovered patterns, trends, and key insights
+- **Basic Data Visualization** — Created histograms, boxplots, scatter plots, and more
+
+### **Level 2: Intermediate Analysis**
+- **Regression Analysis** — Built and evaluated predictive models
+- **Time Series Analysis** — Analyzed trends, seasonality, and performed forecasting
+- **Clustering Analysis** — Implemented K-Means clustering with optimal cluster determination
+
+### **Level 3: Advanced Applications**
+- **Predictive Modeling (Classification)** — Built classification models with hyperparameter tuning
+- **Interactive Dashboards** — Developed dashboards using Power BI / Tableau
+- **Natural Language Processing** — Performed Sentiment Analysis on textual data
+
+---
+
+##  Tools & Technologies
+
+- **Programming**: Python, Jupyter Notebook
+- **Data Processing**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Scikit-learn
-- **Advanced**: Statsmodels, NLTK/TextBlob, Power BI / Tableau
-- **Version Control**: Git & GitHub
+- **Machine Learning**: Scikit-learn, Statsmodels
+- **Advanced**: NLTK/TextBlob, Power BI
+- **Others**: Git, GitHub
 
 ---
 
-## Project Structure
+##  Project Structure
 
 ```bash
 codveda_technologies-data_analysis_internship/
 ├── README.md
 ├── data/
-│   ├── raw/                  # Original datasets
-│   └── processed/            # Cleaned & transformed data
+│   ├── raw/           
+│   └── processed/     
 ├── notebooks/
 │   ├── Level1/
-│   │   ├── 01_data_cleaning.ipynb
-│   │   ├── 02_eda.ipynb
-│   │   └── 03_basic_visualization.ipynb
 │   ├── Level2/
-│   │   ├── 04_regression.ipynb
-│   │   ├── 05_time_series.ipynb
-│   │   └── 06_clustering.ipynb
 │   └── Level3/
-│       ├── 07_classification.ipynb
-│       ├── 08_dashboard/           # Power BI files
-│       └── 09_nlp_sentiment.ipynb
 ├── reports/
-├── visualizations/
+├── visualizations/   
+├── dashboards/
 ├── requirements.txt
 └── .gitignore
