@@ -29,5 +29,4 @@ DAX (calculated measures and columns)
 Power Query (data transformation)
 
 ### How to Open
-Download and open the .pbix file using Microsoft Power BI Desktop.
-A free version is available at powerbi.microsoft.com.
+https://app.powerbi.com/links/f4nKa4KinJ?ctid=dbafdc36-58bd-4684-b130-8831901e51bd&pbi_source=linkShare
