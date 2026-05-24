@@ -1,0 +1,34 @@
+# Dashboards
+
+## housing_market_analytics.pbix
+
+This Power BI dashboard was built using the Boston Housing dataset
+as part of the Level 3 Advanced task for the Codveda Technologies
+Data Analysis Internship.
+
+### Dashboard Contents
+
+**KPI Cards**
+Average Home Value, Average Rooms, Average Crime Rate, High Value Homes
+
+**Visualisations**
+- Scatter chart: Rooms vs Home Value by Price Tier
+- Bar chart: Average Home Value by Accessibility Index
+- Line chart: Lower Status Percentage vs Home Value
+- Treemap: Distribution by Price Tier
+- Column chart: Crime Rate by Price Tier
+
+**Slicers**
+- Price Tier (High, Mid, Low)
+- River Adjacent (Yes, No)
+- Crime Rate range slider
+
+### Tools Used
+Microsoft Power BI Desktop
+
+DAX (calculated measures and columns)
+
+Power Query (data transformation)
+
+### How to Open
+https://app.powerbi.com/links/f4nKa4KinJ?ctid=dbafdc36-58bd-4684-b130-8831901e51bd&pbi_source=linkShare

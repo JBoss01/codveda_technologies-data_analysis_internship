@@ -1,0 +1,28 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Large data files
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.zip
+
+# Output files
+visualizations/*.png
+visualizations/*.jpg
+*.png
+*.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
